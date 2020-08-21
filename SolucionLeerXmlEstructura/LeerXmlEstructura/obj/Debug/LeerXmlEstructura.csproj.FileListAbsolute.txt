@@ -1,0 +1,10 @@
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\obj\Debug\LeerXmlEstructura.csprojAssemblyReference.cache
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\obj\Debug\LeerXmlEstructura.Frm_Principal.resources
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\obj\Debug\LeerXmlEstructura.Properties.Resources.resources
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\obj\Debug\LeerXmlEstructura.csproj.GenerateResource.cache
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\obj\Debug\LeerXmlEstructura.csproj.CoreCompileInputs.cache
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\bin\Debug\LeerXmlEstructura.exe.config
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\bin\Debug\LeerXmlEstructura.exe
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\bin\Debug\LeerXmlEstructura.pdb
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\obj\Debug\LeerXmlEstructura.exe
+C:\Users\PCHP\Documents\GitHub\LecturaXmlEstructura\SolucionLeerXmlEstructura\LeerXmlEstructura\obj\Debug\LeerXmlEstructura.pdb
